@@ -1,7 +1,7 @@
 import "./calculator.css";
 
 function reducer(state, action) {
-//github working
+
 }
 
 function App() {
